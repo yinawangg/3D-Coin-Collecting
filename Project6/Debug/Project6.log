@@ -1,0 +1,61 @@
+﻿  Source.cpp
+c:\users\yina\source\repos\project6\project6\source.cpp(332): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(389): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(393): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(408): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1161): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1169): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1173): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1272): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1410): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1412): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1413): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1581): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1584): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1595): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1600): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1606): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1611): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1619): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1624): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1630): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1635): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1644): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1648): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1680): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1759): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1760): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1778): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1781): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1784): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1787): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1790): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1793): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1815): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1821): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1828): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1834): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1844): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1845): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1846): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1847): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1848): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1871): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1948): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1953): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(1965): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1969): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\yina\source\repos\project6\project6\source.cpp(1979): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1981): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1982): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1983): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1990): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1993): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(1996): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(2006): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(2012): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\yina\source\repos\project6\project6\source.cpp(2015): warning C4018: '<': signed/unsigned mismatch
+c:\users\yina\source\repos\project6\project6\source.cpp(2017): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project6.vcxproj -> C:\Users\Yina\source\repos\Project6\Debug\Project6.exe
+  Project6.vcxproj -> C:\Users\Yina\source\repos\Project6\Debug\Project6.pdb (Partial PDB)
